@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<solutions>
+  <category>
+    <katigoria>Ξενοδοχεία</katigoria>
+    <name>Pegasus Web App e-Hotel</name>
+  </category>
+  <category>
+    <katigoria>Μεταφορές</katigoria>
+    <name>Pegasus Web App e-Transport</name>
+  </category>
+  <category>
+    <katigoria>Courier</katigoria>
+    <name>Pegasus Web App e-Courier</name>
+  </category>
+</solutions>
